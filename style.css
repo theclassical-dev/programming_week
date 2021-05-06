@@ -1,0 +1,26 @@
+body{
+
+}
+p {
+	font-size: 20px;
+}
+
+.img {
+	max-width: 200px;
+
+}
+#img {
+	max-width: 200px;
+
+}
+#col{
+	height: 30px;
+	background-color: #5e5cde;
+	max-width: 30px;
+	margin-bottom: 5px;
+}
+#coll{
+	height: 70px;
+	background-color: #000;
+	max-width: 50px;
+}
